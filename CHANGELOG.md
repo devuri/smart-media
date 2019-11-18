@@ -1,6 +1,12 @@
 Changelog
 =========
 
+## v0.1.16
+
+- Bug: Don't hide image edit link when Smart Media UI not in effect #30
+
+## v0.1.15
+
 - Bug: Allow cropper to update crops for sizes that contain special characters #17
 
 ## v0.1.14
